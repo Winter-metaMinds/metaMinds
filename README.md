@@ -1,0 +1,2 @@
+# metaMinds
+a hackathon project
